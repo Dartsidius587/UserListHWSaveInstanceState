@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserListHWSaveInstanceState</string>
+    <string name="name">Введите имя</string>
+    <string name="age">Введите возраст</string>
+    <string name="save">Сохранить</string>
+    <string name="exit">Exit</string>
+</resources>
